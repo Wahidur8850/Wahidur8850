@@ -4,7 +4,7 @@
 ## 🌟 About Me  
 🎓 **Background**: I'm a developer passionate about solving problems with technology.  
 💼 **Currently Working At**: [ATDXT](https://www.atdxt.com)  
-💡 **Interests**: Full-Stack Development and Quantum Computing.  
+💡 **Interests**: Full-Stack Development.  
 ⚡ **Fun Fact**: I love diving into open-source projects and experimenting with new frameworks.  
 
 ---
@@ -34,17 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Minio](https://img.shields.io/badge/Minio-1C68F2?style=for-the-badge&logo=minio&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-
----
-
-
-## 🚀 Key Projects  
-
-### 🌍 Geo-Visualization Web Application  
-Designed and developed a web application that:  
-Extracts geocoordinates from image source files.  
-Visualizes these geocoordinates as a heatmap on Google Maps.  
-Enhances spatial data interpretation for better insights.  
 
 ---
 
